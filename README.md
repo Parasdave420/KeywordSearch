@@ -46,4 +46,3 @@ containerized using Docker and orchestrated through Docker Compose.
 4. **URL with test**: 
    `http://localhost:5000/search?keyword=Panepinto&limit=10`
    Hit the above URL in postman or browser.
-5. 
