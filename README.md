@@ -26,7 +26,7 @@ containerized using Docker and orchestrated through Docker Compose.
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/yourusername/keyword-search-api.git
+   git clone https://github.com/Parasdave420/KeywordSearch.git
    cd search_service
 
 2. **Running the Services**: Use Docker Compose to run the services. Make sure Docker and Docker Compose are installed
